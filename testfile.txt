@@ -1,2 +1,5 @@
 I AM LOCAL
 LOCAL COMMIT #2
+Yet another local change
+	made on local repo master
+	to be cloned into public
