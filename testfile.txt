@@ -1,3 +1,4 @@
+v1.03 change, no merge conflict
 I AM LOCAL
 LOCAL COMMIT #2
 Published branch with changes in pull request

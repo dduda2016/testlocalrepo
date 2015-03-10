@@ -3,4 +3,5 @@ I am a new file, added to local master after committed to public testlocalrepo
 I am a change designed to create a merge incident
 I AM THE ONE THAT MERGES
 I am a new file, added to local master after committed to public testlocalrep
-v1.02 Making changes to private register as test user  
+v1.02 Making changes to private register as test user 
+I AM THE PRIVATE MERGE CONFLICT 
