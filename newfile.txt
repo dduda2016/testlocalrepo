@@ -1,1 +1,2 @@
+This is a new commit for compression, after the first merge
 I am a new file, added to local master after committed to public testlocalrepo
