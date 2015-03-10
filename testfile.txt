@@ -4,3 +4,4 @@ Published branch with changes in pull request
 Yet another local change
 	made on local repo master
 	to be cloned into public
+One other public change
