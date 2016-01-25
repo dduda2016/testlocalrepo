@@ -1,3 +1,5 @@
+Making changes to the file, new as of 20160125
+
 v1.03 change, no merge conflict
 I AM LOCAL
 LOCAL COMMIT #2
